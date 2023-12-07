@@ -1,0 +1,41 @@
+Il y a aujourd'hui 3 moyens de créer un site web :   From scratch (à la main), CMS (WordPress), Framework (Symfony , expressJS (Node js), angular).
+-----------------------------------------------
+-------------------------------------
+POO = PROGRAMMATION ORIENTÉE OBJET
+On a fait du PROCEDURAL.
+-----------------------------------------------
+-----------------------------------------------
+*** Inconvénients ***
+
+- Techniquement, on ne peut rien faire de plus avec l'orienté objet qu'avaec le PROCEDURAL.
+- Il n'y a rien en orienté objet qu'on puisse pas faire en PROCEDURAL et vice-versa .
+
+- En général, l'pproche orientée objet est moins intuitive que l'approche PROCEDURAL pour l'esprit humain. 
+
+- Cependant, bien que plus complexe, cette approche permet une meilleure évolution vers d'autres langages orientés objet tels que C#, ASP.NET, C++, JAVA.
+
+- Légère perte de performance (pouvant étre améliorée par divers moyens d'optimisation)
+- LA POO est généralement plus lente, car on passe souvent par des méthodes (get, set, ...) au lieu de travailler directement sur la variable ou la structure.
+
+*** Avantages ***
+
+- Modulariser pour avoir un code évolutif.
+- Encourage le travail collaboratif. Lorsqu'une nouvelle personne rejoint un projet, elle n'a pas à découvrir le code progressiviement. 
+- Possibilité de documenter son code
+- Réutilisation du code, ne pas repartir de zéro, créer un code générique pouvant être repris sur d'autre projets. 
+- Simplifier la maintenance / mise à jour, tout se passe dans la classe en question.
+- Assouplir le code, Factoriser le code, Meilleur conceptualisation
+- Les pages seront mooins chargées. 
+- Plus d'options dans le langage (héritage, surcharge, abstraction, finalisation, encapsulation, exception, traits, interface, ect )
+- Certains aspects seraient un casse-tête en PROCEDURAL.
+
+--------------------------------------------------------
+*** VOCABULAIRE ***
+
+Variable = Propriété ou Attribut
+Fonction = Méthode
+Instance = Objet
+
+Une variable permet de contenir une information, un array permet de contenir plusieurs informations, et une classe permet de regrouper des varaibles avec des informations, ainsi que des méthodes comportant des traitements. Il s'agit de types de données différents, et l'objet permet d'accéder aux éléments contenus dans la class.
+
+On peut comparer une classe à un plan de construction d'une maison, et un objet à la maison elle-même.
